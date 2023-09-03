@@ -23,3 +23,10 @@ install dependencies  `npm install`
 ## DEMO
 https://github.com/JR-7-A/Kite-Desktop-App/assets/70372724/a14a625a-eb29-453d-80e2-20c5aaf63b94
 
+## Download
+https://github.com/JR-7-A/Kite-Desktop-App/releases/download/1.0.0/Kite.Desktop.App.UNOFFICIAL.-1.0.0.Setup.exe
+
+## Disclaimer
+All names and logos are property of their respective owners.
+
+
